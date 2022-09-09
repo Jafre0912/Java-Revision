@@ -1,4 +1,4 @@
-#Solution Provided by Sloth Coders
+#Solution Provided by jafre aalam
 for i in range(int(input())):
     n = input()
     if n == n[::-1]:
