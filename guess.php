@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Abdul Moid eaae238a </title>
+<title> Jafre Alam eaae238a </title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
