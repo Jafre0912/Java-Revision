@@ -1,5 +1,5 @@
 
-//methiod of string creation 
+//methiod of string creations
 
 package Strings;
 
