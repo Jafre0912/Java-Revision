@@ -1,4 +1,4 @@
-//fibonaaci number a number which is the sum of the previous 2 numbers i.e. 0 1 1 2 3 5 8 13 21 34 55 
+//fibonaaci number a number which is the sum of the previous 2 numbers i.e. 0 1 1 2 3 5 8 13 21 34 55 etc
 public class Fibo {
     public static void main(String[] args) {
         int ans = fibo(5);
