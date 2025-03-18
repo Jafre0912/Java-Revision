@@ -1,7 +1,7 @@
 //here is the code about the post and pre oder 
 
-//post order = Variablename++  eg. x++  first increment the value of x and then return the value of x
-// preorder = ++x first return the value of x and then increment the value of x
+//post order = Variablename++  eg. x++  first return the value of x and then increment the value of x
+// preorder = ++x first increment the value of x and then return the value of x
 
 // class Operators{
 //     public static void main(String[] args) {
@@ -36,8 +36,8 @@ public class Operators {
         int e = a^b;
         int f = ~a;
         int g = a<<2; // 5*2^2 = 20
-        int h = b<<4; // 4*2^4 = 64    (2^4 = 2x2x2x2) similarly for k times 2^k
-        int i = a>>2; // 5/2^2 = 1.25
+        int h = b<<4; // 4*2^4 = 64    (2^4 = 2x2x2x2) similarly for k times 2^k ("<<") y multiply karega
+        int i = a>>2; // 5/2^2 = 1.25  //">>" y devide krega 
         int j = b>>4; // 4/2^4 = 0.0625
         System.out.println(c);
         System.out.println(d);
