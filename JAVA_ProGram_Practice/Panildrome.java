@@ -5,7 +5,7 @@ public class Panildrome {
         Scanner sc = new Scanner(System.in);
         int Pan = sc.nextInt();
         //int org_Num = Pan;
-        //condition to check if the number is panildrome or not
+        //condition to check if the numbers is panildrome or not
         int rev = 0;
         int Org_Num = Pan; 
 
