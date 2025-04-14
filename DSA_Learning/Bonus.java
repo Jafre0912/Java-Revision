@@ -4,11 +4,10 @@ public class BonusP{
         Scanner sc = new Scanner(System.in);
         int Salary = sc.nextInt();
         int year = sc.nextInt();
+        int bonus = 0;
         if(year>5){
-            int bonus = (Salary * 5)/10;
-            System.out.println("bonus is "+bonus);
-        }else{
-            System.out.println("no bonus");
+            bonus = (Salary * 5)/10;
         }
+            System.out.println("bonus is " + bonus);
     }
 }
