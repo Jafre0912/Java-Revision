@@ -8,5 +8,6 @@ class Main{
         } else{
             System.out.println("not adult");
         } 
+        sc.close();
     }
 }
