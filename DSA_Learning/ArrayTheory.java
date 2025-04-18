@@ -23,5 +23,8 @@ public class ArrayTheory{
         for(int i = 0; i<age.length; i++){
             System.out.println(age[i]);
         }
+        for(int ages:age){ //for each loop here this gives full whole array not give partially array
+            System.out.println(ages);
+        }
     }
 }
